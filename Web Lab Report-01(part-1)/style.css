@@ -1,0 +1,54 @@
+/* BODY */
+body {
+    font-family: "Times New Roman", serif;
+    margin: 40px;
+    background-color: white;
+    color: black;
+}
+
+/* TOP TEXT */
+.top {
+    font-size: 14px;
+    text-align: center;
+}
+
+/* LOGO */
+.logo {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+/* MENU */
+.menu {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* MAIN HEADLINE */
+.headline {
+    font-size: 32px;
+    margin-top: 30px;
+}
+
+/* IMAGE */
+.main-img {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* PARAGRAPH TEXT */
+.text {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+}
